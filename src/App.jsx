@@ -16,15 +16,10 @@ function App() {
           <div className="flex justify-between space-x-4">
             <a href = "https://www.linkedin.com/in/uchenna-emmanuel-81a854332/"  className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">linkedin</a>
           
-            <a href="https://github.com/yourusername" class="bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-900">GitHub</a>
+            <a href="https://github.com/dovadallas661-ux" className="bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-900">GitHub</a>
 
 
-          <a
-            href="mailto:dovadallas661@gmail.com"
-            className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition"
-          >
-           Email
-          </a>
+          <a href="mailto:dovadallas661@gmail.com" className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">Email me</a>
                   </div>
 
         <div className="mb-4">
